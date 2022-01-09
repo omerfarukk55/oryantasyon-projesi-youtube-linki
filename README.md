@@ -46,7 +46,7 @@ public class switcblok {
              break;
             
           case'f':
-              System.out.println("geçersiznot bokgibi");
+              System.out.println("geçersiznot ");
              break;
           default:
               System.out.println("yasak nokta.com ");
