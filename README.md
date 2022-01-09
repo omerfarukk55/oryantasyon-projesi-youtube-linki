@@ -1,7 +1,7 @@
 # oryantasyon-projesi-youtube-linki
 youtube da cözümlü problemler
 package omerfaruk;
-
+//tek sayıların ve çift sayıların toplamı
 
 public class NewClass1 {
     public static void main(String[] args){
@@ -25,7 +25,7 @@ public class NewClass1 {
 
 /**
  *
- * @author MONSTER
+ * ögrencinin aldıgı nota göre gecip geçmediğini söyleyen sistem switch kullanılarak yapıldı 
  */
 public class switcblok {
     public static void main(String[]arms){
@@ -54,7 +54,7 @@ public class switcblok {
              
     }
      }            
-}
+}//şekirleri diziler sayesinde alt alta belli bir bölgelere ayırarak sıralama 
 package omerfaruk;
 
 
@@ -90,7 +90,7 @@ public class recapdemo {
 
 /**
  *
- * @author MONSTER
+ * sayıların büyükten küçüğe doğru sıralama sistemi
  */
 public class buyukkucuksayılar {
     public static void main(String[] args){
@@ -114,7 +114,7 @@ public class buyukkucuksayılar {
         System.out.println("en büyük sayı"+enBuyuksayı);
         System.out.println("en kücük sayı"+enkucuksayı);
     }
-}
+}//sayıların asal olup olmadığını bulan kod satırları
 package omerfaruk;
 
 import java.util.Scanner;
@@ -143,7 +143,7 @@ public class remainderasalsayı {
        }
           
     }
-    
+    //kardeş yaşlarının ortalamasını ve yaşlarının toplamını buluyor
 }import java.util.Scanner;
 public class noktalıSayıjava {
     public static void main(String[] args){
@@ -160,7 +160,7 @@ public class noktalıSayıjava {
         
        
         
-    }
+    }//sütcünün günlük süt satış fiyatını yazdırıyor
 }package omerfaruk; 
  import java.io.IOException;
  import java.text.DecimalFormat;
@@ -184,7 +184,7 @@ public class omerinlog {
         System.out.println("buna göre günlük ücretiniz:"+nf.format(ucret)+"tl");
     }
 }package omerfaruk;
-
+//mükemmel sayı bulma 
 import java.util.Scanner;
 public class mükemmelsayı {
     //mükemmel sayı 
@@ -207,7 +207,7 @@ public class mükemmelsayı {
         else {
             System.out.println("mükemmelsayı değil");
         }
-    }
+    }//sayı tahminini bulma
 }import java.util.Scanner;
 public class tahminet100ekadar {
     public static void main(String[] args){
@@ -231,7 +231,7 @@ public class tahminet100ekadar {
     }
             
     
-   
+   /*random sayı atayarak toplama yaptırdım ve bunu kullanıcı tarfından dogru olup olmadığını doğrulattım yani kullanıcının matematikteki toplama ve cıkarma becerisini geliştirme yönünde katkı sağlamış oldum*/
 }
 import java.util.Scanner;
 public class randomToplama {
